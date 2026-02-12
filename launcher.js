@@ -44,9 +44,9 @@ function renderLauncher() {
    * FIXED TABLET OPTIMIZED DIMENSIONS
    *****************************************************/
 
-  const radius = height * 0.14;         // tuned for 16:10
+  const radius = height * 0.10;         // tuned for 16:10
   const horizontalGap = width * 0.18;   // more horizontal breathing
-  const verticalGap = height * 0.08;    // safe vertical space
+  const verticalGap = height * 0.06;    // safe vertical space
   const textOffset = 95;                // reserved text space
 
   const columns = 2;
